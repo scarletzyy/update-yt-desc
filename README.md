@@ -28,7 +28,6 @@ pip install selenium
 2. Modify the script as needed to set your YouTube login credentials and the description template.
 Run the script:
 ```bash
-Copy code
 python update-yt-desc.py
 ```
 
