@@ -17,7 +17,7 @@ Ensure that your WebDriver matches the version of your browser.
 
 ## Installation
 
-You can use this script by simply downloading the file: [update-yt-desc.py](path/to/your/update-yt-desc.py)
+You can use this script by simply downloading the file: [update-yt-desc.py](https://github.com/scarletzyy/update-yt-desc/blob/main/update-yt-desc.py)
 
 ## Usage
 
