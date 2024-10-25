@@ -25,8 +25,8 @@ You can use this script by simply downloading the file: [update-yt-desc.py](http
 ```bash
 pip install selenium
 ```
-2. Modify the script as needed to set your YouTube login cache file and the description template.
-Run the script:
+2. Modify the script as needed to set your YouTube channel ID, path to your cookies JSON, and the description template.
+3. Run the script:
 ```bash
 python update-yt-desc.py
 ```
