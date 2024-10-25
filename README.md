@@ -13,7 +13,7 @@ Due to restrictions imposed by Google on automated browser windows for signing i
 - Selenium library
 - Chrome WebDriver (or appropriate WebDriver for your browser).
 
-Ensure that your WebDriver matches the version of your browser.
+Note that your WebDriver should match the version of your browser.
 
 ## Installation
 
@@ -25,7 +25,7 @@ You can use this script by simply downloading the file: [update-yt-desc.py](http
 ```bash
 pip install selenium
 ```
-2. Modify the script as needed to set your YouTube login credentials and the description template.
+2. Modify the script as needed to set your YouTube login cache file and the description template.
 Run the script:
 ```bash
 python update-yt-desc.py
